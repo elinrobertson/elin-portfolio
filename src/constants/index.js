@@ -172,16 +172,20 @@ export const SKILLS = [
     image: npm,
   },
   {
-    name: "MongoDB",
-    image: mongodb,
-  },
-  {
     name: "API Developement",
     image: api,
   },
   {
+    name: "MongoDB",
+    image: mongodb,
+  },
+  {
     name: "PHP",
     image: php,
+  },
+  {
+    name: "Shopify",
+    image: shopify,
   },
   {
     name: "WordPress",
@@ -190,10 +194,6 @@ export const SKILLS = [
   {
     name: "WooCommerce",
     image: woocommerce,
-  },
-  {
-    name: "Shopify",
-    image: shopify,
   },
 ];
 
