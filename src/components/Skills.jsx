@@ -24,7 +24,7 @@ const Skills = () => {
         </h2>
         <div className="h-1 w-20 bg-white mb-8"></div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 mb-20">
             {SKILLS.map((skill, index) => (
                 <motion.div
                     key={index}
