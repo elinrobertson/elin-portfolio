@@ -19,7 +19,7 @@ const textVariants = {
 const Skills = () => {
   return (
     <section className="min-h-screen flex flex-col justify-center px-4 md:px-10" id="skills">
-        <h2 className="text-4xl md:text-6xl font-medium tracking-tighter mb-6">
+        <h2 className="text-4xl md:text-6xl font-medium tracking-tight mb-6">
             Skills
         </h2>
         <div className="h-1 w-20 bg-white mb-8"></div>
