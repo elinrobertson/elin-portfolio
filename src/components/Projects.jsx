@@ -54,7 +54,7 @@ const Projects = () => {
                                             href={project.githubLink} // Länk till GitHub
                                             target="_blank"
                                             rel="noopener noreferrer"
-                                            className="bg-white text-stone-900 rounded-full py-2 px-2 w-32 text-sm hover:bg-gray-200 text-center"
+                                            className="bg-white text-stone-900 rounded-full py-2 px-2 w-32 text-sm hover:bg-gray-200 text-center cursor-pointer"
                                         >
                                             View on GitHub
                                         </a>
@@ -63,7 +63,7 @@ const Projects = () => {
                                             href={project.siteLink} // Länk till hemsidan
                                             target="_blank"
                                             rel="noopener noreferrer"
-                                            className="bg-white text-stone-900 rounded-full py-2 px-2 w-32 text-sm hover:bg-gray-200 text-center"
+                                            className="bg-white text-stone-900 rounded-full py-2 px-2 w-32 text-sm hover:bg-gray-200 text-center cursor-pointer"
                                         >
                                             View Site
                                         </a>

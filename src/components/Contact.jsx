@@ -55,7 +55,7 @@ export const Contact = () => {
 
         <motion.a
             href={`mailto:${CONTACT_CONTENT.email}`}
-            className="text-2xl md:text-3xl font-medium mt-8"
+            className="text-2xl md:text-3xl font-medium mt-8 hover:text-stone-400 transition duration-300"
             initial="hidden"
             whileInView="visable"
             custom={0.8}
@@ -65,14 +65,14 @@ export const Contact = () => {
                 {CONTACT_CONTENT.email}
         </motion.a>
 
-        <div className="flex space-x-6 mt-8">
+        <div className="flex space-x-6 mt-8 ">
             {CONTACT_CONTENT.socialLinks.map((link, index) => {
                 const Icon =
                     link.icon === "RiGithubFill"
                     ? RiGithubFill
                     : RiLinkedinFill;
                     return (
-                        <motion.a key={link.platform}
+                        <motion.a  className="hover:text-stone-400 transition duration-300" key={link.platform}
                             href={link.url}
                             target="_blank"
                             rel="noopener noreferrer"

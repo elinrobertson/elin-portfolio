@@ -6,8 +6,6 @@ import projectfive from "../assets/projectfive.png";
 import projectsix from "../assets/projectsix.png";
 
 
-
-
 import html from "../assets/html-icon.png";
 import css from "../assets/css-icon.png";
 import javascript from "../assets/javascript-icon.png";
@@ -27,8 +25,8 @@ import shopify from "../assets/shopify-icon.png";
 
 
 export const LINKS = [
-  { href: "#work", label: "Work" },
   { href: "#about", label: "About" },
+  { href: "#work", label: "Work" },
   { href: "#experience", label: "Experience" },
   { href: "#skills", label: "Skills" },
   { href: "#contact", label: "Contact" },
