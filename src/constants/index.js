@@ -35,9 +35,9 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hi there! 🖐️",
   introduction:
-    "I’m Elin Robertson, a newly graduated  developer, looking for my first opportunity in the world of coding.",
+    "I’m Elin Robertson, a newly graduated fullstack developer, looking for my first opportunity in the world of coding.",
   description:
-    "I’m currently helping businesses bring their visions to life through interactive digital solutions.",
+    "I have a strong passion for frontend but I love the challange of backend.",
   resumeLinkText: "Download Resume",
   resumeLink: "/resume.pdf",
 };
@@ -90,8 +90,10 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "I am a dedicated frontend developer with a passion for building modern web applications that are both functional and aesthetically pleasing. Over the years, I have worked on numerous projects ranging from single-page applications to complex multi-tiered systems, always ensuring high performance and seamless user experiences.",
-    "I specialize in using technologies like React, Next.js, and Tailwind CSS to create responsive and scalable interfaces. My focus is on writing clean, maintainable code while collaborating with cross-functional teams to deliver projects that meet both business goals and user needs. I thrive in environments that challenge me to continuously learn and grow.",
+    "I recently graduated from Mediainstitutet where I have studied Web development E-commerce. We have worked with both frontend and backend technologies such as HTML, CSS, JavaScript, React, NodeJS and much more.",
+    "I have a strong passion for development and from our first course in school I knew that this is what I want to do for the rest of my career. I love the problem-solving aspects of the job and I like that there is always something new to learn. I also love seeing my code actually bringing something to life.",
+    "I have over 15 years of experience working in sales at a customer service and with technical support. With this background I have great skills in handling customers and understanding their wants and needs. From this I am also great at setting a goal for myself and trying everything I can to reach it. I have always been a hard worker and for the lastest years I have been working in a smaller team which I really enjoyed.",
+    "But now it is time for me to spread my wings and fly off to new opportunities and I would love to find a company that would take the chance on me. ",
   ],
 };
 

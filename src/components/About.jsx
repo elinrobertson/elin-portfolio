@@ -21,7 +21,7 @@ const About = () => {
             {ABOUT_CONTENT.paragraphs.map((paragraph, index) => (
              <motion.p 
                 key={index} 
-                className="text-xl md:text-2xl lg:text-4xl mb-10 leading-relaxed" 
+                className="text-xl md:text-2xl lg:text-2xl mb-10 leading-relaxed" 
                 initial="hidden" 
                 whileInView="visable" 
                 viewport={{once: true, amount: 0.5}}
