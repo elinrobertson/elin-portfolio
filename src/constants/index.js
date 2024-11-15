@@ -104,7 +104,7 @@ export const EXPERIENCES = [
     location: "Kalmar",
     description: [
       "I am currently working at a Secondline Support, helping agents and technicians solve problems. I am also working in Jira on a daily basis.",
-      "Have been Super User for a social media team and was responsible for quality control.",
+      "I've been Super User for a social media team and was responsible for quality control.",
       "For many years I have worked in sales and I was awarded Sales Person of the Year three times.",
     ],
   },
