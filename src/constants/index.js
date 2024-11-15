@@ -37,7 +37,7 @@ export const HERO_CONTENT = {
   introduction:
     "I’m Elin Robertson, a newly graduated fullstack developer, looking for my first opportunity in the world of coding.",
   description:
-    "I have a strong passion for frontend but I love the challange of backend.",
+    "I have a strong passion for frontend and accessibility but I love the challange of backend.",
   resumeLinkText: "Download Resume",
   resumeLink: "/resume.pdf",
 };
@@ -45,7 +45,7 @@ export const HERO_CONTENT = {
 export const PROJECTS = [
   {
     name: "PosterWorld",
-    description: "Degree project - Fullstack e-commerce using MERN stack",
+    description: "Degree project - Fullstack e-commerce using MERN stack.",
     image: projectthree,
     siteLink: "https://github.com/elinrobertson/PosterWorld",
     showGitHubButton: true, // Knappen visas
@@ -92,40 +92,40 @@ export const ABOUT_CONTENT = {
   paragraphs: [
     "I recently graduated from Mediainstitutet where I have studied Web development E-commerce. We have worked with both frontend and backend technologies such as HTML, CSS, JavaScript, React, NodeJS and much more.",
     "I have a strong passion for development and from our first course in school I knew that this is what I want to do for the rest of my career. I love the problem-solving aspects of the job and I like that there is always something new to learn. I also love seeing my code actually bringing something to life.",
-    "I have over 15 years of experience working in sales at a customer service and with technical support. With this background I have great skills in handling customers and understanding their wants and needs. From this I am also great at setting a goal for myself and trying everything I can to reach it. I have always been a hard worker and for the lastest years I have been working in a smaller team which I really enjoyed.",
+    "I have over 15 years of experience working in sales at a customer service and with technical support. With this background I have great skills in handling customers and understanding their wants and needs. From this I am also great at setting a goal for myself and trying everything I can to reach it. I have always been a hard worker and for the most recent years I have been working in a smaller team which I really enjoyed.",
     "But now it is time for me to spread my wings and fly off to new opportunities and I would love to find a company that would take the chance on me. ",
   ],
 };
 
 export const EXPERIENCES = [
   {
-    yearRange: "2023 — Now",
-    title: "Senior Frontend Engineer at TechCorp",
-    location: "Paris, France",
+    yearRange: "2012 — Now",
+    title: "Concentrix",
+    location: "Kalmar",
     description: [
-      "Leading the development of scalable frontend architecture for enterprise-level applications.",
-      "Collaborating with cross-functional teams to deliver high-quality, user-centric solutions.",
-      "Driving innovation through continuous improvements in performance and UI/UX design.",
+      "I am currently working at a Secondline Support, helping agents and technicians solve problems. I am also working in Jira on a daily basis.",
+      "Have been Super User for a social media team and was responsible for quality control.",
+      "For many years I have worked in sales and I was awarded Sales Person of the Year three times.",
     ],
   },
   {
-    yearRange: "2021 — 2023",
-    title: "Frontend Engineer at Startup Inc.",
+    yearRange: "2024 — 2024",
+    title: "Internship - Web Developer at CGI",
+    location: "Kalmar",
+    description: [
+      "Worked closley and independently with my own customer, making their new website and e-commerce store in Shopify.",
+      "I also made another website for a customer in WordPress. ",
+      "Hade the opportunity to learn more about C# and .NET and getting som basic knowledge.",
+    ],
+  },
+  {
+    yearRange: "2023 — 2023",
+    title: "Internship - Web Developer at Wiberg Media",
     location: "Remote",
     description: [
-      "Built dynamic, responsive, and accessible web applications using React, Next.js, and Tailwind CSS.",
-      "Spearheaded frontend optimization efforts, resulting in a 40% performance boost.",
-      "Mentored junior developers and led internal frontend workshops.",
-    ],
-  },
-  {
-    yearRange: "2018 — 2021",
-    title: "Frontend Developer at Creative Solutions",
-    location: "London, UK",
-    description: [
-      "Developed and maintained user interfaces for high-traffic websites.",
-      "Worked closely with designers to implement pixel-perfect designs.",
-      "Optimized websites for SEO and performance, resulting in a 30% increase in traffic.",
+      "I have worked with both WordPress and WooCommerce and also developed more knowledge in PHP.",
+      "Worked on integrating two different type of APIs in to WordPress.",
+      "Had the opportunity to experiment and learn more about Tailwind, Bootstrap and FramerMotion. ",
     ],
   },
 ];
@@ -198,20 +198,20 @@ export const SKILLS = [
 ];
 
 export const CONTACT_CONTENT = {
-  headline: "LET'S WORK ON SOMETHING GREAT",
+  headline: "LET'S GET IN TOUCH",
   description:
-    "I'm excited to collaborate on projects that push boundaries and create meaningful impact. Let's build something innovative and exceptional together.",
+    "I have never been more excited to get out in the real world of coding and contribute to projects. I just need a company to take a chance on a new develpoer that is willing to learn and be the best developer possible.",
   email: "robertsonelin@gmail.com",
   socialLinks: [
     {
       platform: "GitHub",
-      url: "https://github.com/yourprofile",
+      url: "https://github.com/elinrobertson/",
       ariaLabel: "View my GitHub profile",
       icon: "RiGithubFill",
     },
     {
       platform: "LinkedIn",
-      url: "https://linkedin.com/in/yourprofile",
+      url: "https://linkedin.com/in/elinrobertson",
       ariaLabel: "Connect with me on LinkedIn",
       icon: "RiLinkedinFill",
     },
