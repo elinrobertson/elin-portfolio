@@ -39,7 +39,7 @@ export const HERO_CONTENT = {
   description:
     "I have a strong passion for frontend and accessibility but I love the challange of backend.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "/cv.pdf",
 };
 
 export const PROJECTS = [
